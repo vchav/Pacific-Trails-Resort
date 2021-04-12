@@ -1,0 +1,24 @@
+header  { background-color: #000033       ;
+        color: #FFFFFF    ;
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+#container { margin-left: auto ;
+    margin-right: auto;
+    width: 80% ;
+} 
+nav { font-weight: bold;
+    background-color: #90C7E3;
+}
+h2 {  color: #3399cc     ;
+     font-family: Georgia, 'Times New Roman', Times, serif    ;
+}
+dt { font-weight: bold;
+    color: #000033; 
+}
+.resort { font-size: 1.2em;
+        color: #000033;
+}
+footer { font-size: .70em;
+    font-style: italic;
+    text-align : center; 
+}
